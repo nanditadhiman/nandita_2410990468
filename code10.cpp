@@ -5,8 +5,6 @@ class student{
     string name;
     int rollno;
 };
-
-
 int main(){
     string name;
     cin>>name;
